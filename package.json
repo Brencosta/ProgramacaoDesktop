@@ -1,0 +1,14 @@
+{
+  "name": "programacao_desktop",
+  "version": "1.5.0",
+  "description": "",
+  "main": "src/main/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {
+    "electron": "^44.7.0"
+  }
+}
